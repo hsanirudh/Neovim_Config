@@ -1,0 +1,4 @@
+let g:coc_snippet_next = '<Tab>'
+let g:coc_snippet_prev = '<S-Tab>'
+inoremap <expr> <Tab> pumvisible() ? coc#_select_confirm() : "<Tab>"
+set termguicolors

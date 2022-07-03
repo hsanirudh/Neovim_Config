@@ -1,0 +1,5 @@
+" BufferNext
+nnoremap <silent>  <A-.> :BufferNext<CR>
+nnoremap <silent>  <A-,> :BufferPrevious<CR>
+" close
+nnoremap <silent>    <A-c> :BufferClose<CR>
