@@ -3,6 +3,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'neoclide/coc.nvim'
   Plug 'vim-airline/vim-airline'
   Plug 'ryanoasis/vim-devicons'
+  Plug 'vim-airline/vim-airline-themes'
   Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
   Plug 'ap/vim-css-color'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
