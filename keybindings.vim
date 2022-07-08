@@ -8,3 +8,6 @@ nnoremap <A-S-w> : wq<CR>
 nnoremap <C-f> : FZF<CR>
 nnoremap <A-S-f> : History<CR>
 nnoremap <A-S-c> : Commits<CR>
+" Floaterm 
+nnoremap <A-t> : FloatermToggle<CR>
+nnoremap <A-S-t> : FloatermNew<CR>

@@ -9,6 +9,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
   Plug 'tpope/vim-eunuch'
+  Plug 'voldikss/vim-floaterm'
   Plug 'mhinz/vim-startify'
   Plug 'preservim/nerdtree'
   Plug 'jiangmiao/auto-pairs'
