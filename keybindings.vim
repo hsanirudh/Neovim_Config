@@ -9,5 +9,5 @@ nnoremap <C-f> : FZF<CR>
 nnoremap <A-S-f> : History<CR>
 nnoremap <A-S-c> : Commits<CR>
 " Floaterm 
-nnoremap <A-t> : FloatermToggle<CR>
-nnoremap <A-S-t> : FloatermNew<CR>
+nnoremap <C-t> : FloatermToggle<CR>
+nnoremap <C-S-t> : FloatermNew<CR>

@@ -12,7 +12,7 @@ let g:startify_custom_header = [
 " bookmark examples
 let  g:startify_bookmarks =  [
     \ {'c': '~/.config'},
-    \ {'o': '~/.config/qtile/' }
+    \ {'o': '~/.config/nvim/' }
     \ ]
 
 " startify
